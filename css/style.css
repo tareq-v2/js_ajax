@@ -1,0 +1,7 @@
+h5{
+    display: inline-block;
+    border-bottom: 1px solid;
+}
+input, button:focus{
+    box-shadow: none !important;
+}
